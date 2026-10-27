@@ -1,0 +1,9 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#6255
+    [34mnom[39m: "[32madmin[39m",
+    #[33mmot_de_passe[39m: "[32m$2y$12$asJ5SiHWywVE33X2sMBRIe4srgDFbPXex7bX0Mf0HAcbIEOGXfSp6[39m",
+    [34mrole[39m: "[32madmin[39m",
+    [34mupdated_at[39m: "[32m2025-06-28 09:49:37[39m",
+    [34mcreated_at[39m: "[32m2025-06-28 09:49:37[39m",
+    [34mid[39m: [35m1[39m,
+  }
+

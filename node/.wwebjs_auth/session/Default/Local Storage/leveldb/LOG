@@ -1,0 +1,12 @@
+2025/07/11-13:04:24.222 a16f7 Reusing MANIFEST /home/user/Parck3/node/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/11-13:04:24.222 a16f7 Recovering log #4
+2025/07/11-13:04:24.222 a16f7 Reusing old log /home/user/Parck3/node/.wwebjs_auth/session/Default/Local Storage/leveldb/000004.log 
+2025/07/11-14:24:35.419 a3d9b Level-0 table #8: started
+2025/07/11-14:24:35.582 a3d9b Level-0 table #8: 16549 bytes OK
+2025/07/11-14:24:35.659 a3d9b Delete type=0 #4
+2025/07/11-21:24:54.410 c0523 Level-0 table #10: started
+2025/07/11-21:24:55.177 c0523 Level-0 table #10: 15578 bytes OK
+2025/07/11-21:24:55.247 c0523 Delete type=0 #7
+2025/07/12-09:45:33.974 f1d7a Level-0 table #12: started
+2025/07/12-09:45:34.542 f1d7a Level-0 table #12: 15250 bytes OK
+2025/07/12-09:45:34.603 f1d7a Delete type=0 #9
